@@ -1,6 +1,6 @@
 # Biz Theme Dark
 
-This theme is inspired of these two amazing color theme, The Material Dark Theme [Link](https://github.com/yuchiu/Default-Material-Dark-Theme) and CodeSandbox Theme [Link](https://github.com/ngryman/codesandbox-theme).
+This theme is inspired of these two amazing color theme, [The Material Dark Theme](https://github.com/yuchiu/Default-Material-Dark-Theme) and[CodeSandbox Theme](https://github.com/ngryman/codesandbox-theme).
 
 ## Recommended settings
 
