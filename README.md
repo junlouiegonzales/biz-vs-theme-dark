@@ -9,8 +9,8 @@ This theme is inspired of these two amazing color theme, [The Material Dark Them
 
 You can use any font style you like but I recommend to use the MonoLisa font. You can learn more about this font [here](https://www.monolisa.dev/).
 
-## Recommended settings
 
+### Recommended settings
 * Download the MonoLisa font here [Link](https://github.com/stolinski/scott-2020/tree/master/static).
 * Install the font into your machine by right-clicking the 'MonoLisa-Bold.otf, MonoLisa-Regular.otf' file and select install 
 * Go to your settings json file and add these configuration
@@ -18,5 +18,12 @@ You can use any font style you like but I recommend to use the MonoLisa font. Yo
     `"editor.fontFamily": "MonoLisa",
     "editor.lineHeight": 24`,
 
+
+<br />
+
+Feel free to contribute your amazing ideas here. 
+https://github.com/junlouiegonzales/biz-vs-theme-dark
+
+<br />
 
 **Enjoy!**
