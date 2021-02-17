@@ -2,7 +2,8 @@
 
 If you love Dark this theme is for you. 
 
-![alt text](./images/sample-screenshot.png)
+![screenshot](./images/sample-screenshot.PNG)
+![demo](./images/demo.gif)
 
 This theme is inspired of these two amazing color theme, [The Material Dark Theme](https://github.com/yuchiu/Default-Material-Dark-Theme) and [CodeSandbox Theme](https://github.com/ngryman/codesandbox-theme).
 
@@ -14,7 +15,8 @@ You can use any font style you like but I recommend to use the MonoLisa font. Yo
 * Install the font into your machine by right-clicking the 'MonoLisa-Bold.otf, MonoLisa-Regular.otf' file and select install 
 * Go to your settings json file and add these configuration
 
-    `"editor.fontFamily": "MonoLisa"`,
-    `"editor.lineHeight": 24`,
+    `"editor.fontFamily": "MonoLisa",
+    "editor.lineHeight": 24`,
+
 
 **Enjoy!**
