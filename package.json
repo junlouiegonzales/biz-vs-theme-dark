@@ -1,8 +1,8 @@
 {
     "name": "biz-theme-dark",
-    "displayName": "biz-theme-dark",
+    "displayName": "Biz Theme Dark",
     "description": "Biz Theme Dark is mix of Default Material Dark Theme and CodeSandbox Theme",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.53.0"
     },
