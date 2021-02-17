@@ -2,7 +2,7 @@
 
 If you love Dark this theme is for you. 
 
-![screenshot](https://github.com/junlouiegonzales/biz-vs-theme-dark/blob/master/images/sample-screenshot.PNG)
+![screenshot](./images/sample-screenshot.PNG)
 ![demo](./images/demo.gif)
 
 This theme is inspired of these two amazing color theme, [The Material Dark Theme](https://github.com/yuchiu/Default-Material-Dark-Theme) and [CodeSandbox Theme](https://github.com/ngryman/codesandbox-theme).
